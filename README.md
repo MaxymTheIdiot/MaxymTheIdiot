@@ -5,6 +5,8 @@ im an absolutely braindead programmer from ukraine
 
 ![steamhappy](steamhappy.png)
 
+[MY AMAZING WEBSITE](https://maxymtheidiot.github.io/)
+
 New Text Layer
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=MaxymTheIdiot&show_icons=true&theme=transparent)
 \&nbsp; Footer Text
